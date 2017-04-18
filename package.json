@@ -1,6 +1,6 @@
 {
   "name": "@bossmodecg/widget-clientele",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Management widget for exposing the clientele module as an info panel.",
   "main": "dist",
   "license": "MIT",
@@ -13,7 +13,6 @@
   ],
   "dependencies": {
     "axios": "^0.15.3",
-    "babel-polyfill": "^6.23.0",
     "better-react-spinkit": "^2.0.0-6",
     "lodash": "^4.17.4",
     "url-parse": "^1.1.8"
@@ -33,7 +32,6 @@
     "babel-plugin-transform-class-properties": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.23.0",
     "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-polyfill": "^6.23.0",
     "eslint": "^3.18.0",
     "eslint-config-airbnb": "latest",
     "eslint-plugin-import": "^2.2.0",
